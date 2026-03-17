@@ -550,7 +550,7 @@
          height="8"
          width="8"
          id="rect4414"
-         style="display:inline;fill:#e95420;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:0.25098;enable-background:new"
+         style="display:inline;fill:#990000;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:0.25098;enable-background:new"
          transform="matrix(0,-1,-1,0,0,0)" />
       <rect
          ry="4"
@@ -643,7 +643,7 @@
          style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
          d="M 323.98633 238.94336 C 323.60164 238.94336 323.34359 239.02438 323.21094 239.18359 C 323.07163 239.34943 323 239.62187 323 240 L 323 241 L 330 241 L 330 240 C 330 239.62187 329.92835 239.34943 329.78906 239.18359 C 329.65639 239.02434 329.39833 238.93836 329.01367 238.94336 L 323.98633 238.94336 z " />
       <circle
-         style="opacity:1;fill:#e95420;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#990000;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
          id="path17601"
          cx="346.99976"
          cy="73"
@@ -675,18 +675,18 @@
          y="243" />
       <path
          id="rect17636"
-         style="opacity:1;fill:#e95420;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:1;fill:#990000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
          d="m 337.99994,140.9995 h 1 v 1 h -1 z"
          sodipodi:nodetypes="ccccc" />
       <rect
-         style="display:inline;fill:#e95420;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;enable-background:new"
+         style="display:inline;fill:#990000;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;enable-background:new"
          id="rect17636-6"
          width="1"
          height="1"
          x="333"
          y="195" />
       <rect
-         style="display:inline;fill:#e95420;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;enable-background:new"
+         style="display:inline;fill:#990000;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;enable-background:new"
          id="rect17636-0"
          width="1"
          height="1"
@@ -766,3 +766,4 @@
     </g>
   </g>
 </svg>
+

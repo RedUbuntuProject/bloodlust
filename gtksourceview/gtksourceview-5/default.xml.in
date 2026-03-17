@@ -38,7 +38,7 @@
   <color name="orange_2"                   value="#F08763"/>
   <color name="orange_3"                   value="#ED764D"/>
   <color name="orange_4"                   value="#EB6536"/>
-  <color name="orange_5"                   value="#E95420"/>
+  <color name="orange_5"                   value="#990000"/>
   
   <color name="purple_1"                   value="#924D8B"/>
   <color name="purple_2"                   value="#762572"/>
@@ -148,3 +148,4 @@
   <style name="xml:processing-instruction" foreground="yellow_5" bold="true"/>
 
 </style-scheme>
+

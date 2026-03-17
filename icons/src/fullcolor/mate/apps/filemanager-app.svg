@@ -328,7 +328,7 @@
          style="stop-color:#772953;stop-opacity:1;"
          offset="0"
          id="stop5" /><stop
-         style="stop-color:#e95420;stop-opacity:1;"
+         style="stop-color:#990000;stop-opacity:1;"
          offset="1"
          id="stop4" /></linearGradient><inkscape:path-effect
        effect="fillet_chamfer"
@@ -1142,3 +1142,4 @@
          id="rect4158-6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscccsccccc" /></g></g></svg>
+

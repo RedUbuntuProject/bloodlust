@@ -3,7 +3,7 @@
 @function get_accent_color($accent_color, $is_dark: false) {
     $color: null;
     @if $accent_color == 'default' {
-        $color: #E95420;
+        $color: #990000;
     } @else if $accent_color == 'bark' {
         $color: #787859;
     } @else if $accent_color == 'sage' {
@@ -67,3 +67,4 @@ $accent-color-dark-bg: if($yaru_is_dark_variant, $accent_color,
         $target: $contrast_target));
 
 @import '@yaru_theme_entry_point@'
+

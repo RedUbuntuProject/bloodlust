@@ -1180,7 +1180,7 @@
          rx="22.4995"
          ry="22.5005" />
       <path
-         style="display:none;fill:#e95420;fill-opacity:1;stroke-width:0.3"
+         style="display:none;fill:#990000;fill-opacity:1;stroke-width:0.3"
          id="path42"
          d="m 149.97809,52.072468 h 4 c 1.108,0 2,0.892 2,2 v 12 c 0,1.108 -0.892,2 -2,2 h -4 c -1.108,0 -2,-0.892 -2,-2 v -12 c 0,-1.108 0.892,-2 2,-2 z"
          transform="rotate(8.7804878,151.99998,155.60161)" />
@@ -1332,7 +1332,7 @@
       <g
          id="path68">
         <path
-           style="fill:#e95420;stroke-linecap:square"
+           style="fill:#990000;stroke-linecap:square"
            d="m 354.54681,73.453154 -15.7705,15.770493"
            id="path94" />
         <path
@@ -1385,22 +1385,22 @@
          d="m 343.5,64 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 3 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -3 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
          transform="rotate(12.857143,343.99973,84.00023)" />
       <path
-         style="display:none;fill:#e95420;fill-opacity:1;stroke-width:0.3"
+         style="display:none;fill:#990000;fill-opacity:1;stroke-width:0.3"
          id="path79"
          d="m 343.5,64 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 3 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -3 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
          transform="rotate(12.413793,343.99973,84.00023)" />
       <path
-         style="display:none;fill:#e95420;fill-opacity:1;stroke-width:0.3"
+         style="display:none;fill:#990000;fill-opacity:1;stroke-width:0.3"
          id="path80"
          d="m 343.5,64 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 3 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -3 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
          transform="rotate(12,343.99973,84.00023)" />
       <path
-         style="display:none;fill:#e95420;fill-opacity:1;stroke-width:0.3"
+         style="display:none;fill:#990000;fill-opacity:1;stroke-width:0.3"
          id="path81"
          d="m 343.5,64 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 3 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -3 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
          transform="rotate(11.612903,343.99973,84.00023)" />
       <path
-         style="display:none;fill:#e95420;fill-opacity:1;stroke-width:0.3"
+         style="display:none;fill:#990000;fill-opacity:1;stroke-width:0.3"
          id="path82"
          d="m 343.5,64 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 3 c 0,0.277 -0.223,0.5 -0.5,0.5 h -1 c -0.277,0 -0.5,-0.223 -0.5,-0.5 v -3 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
          transform="rotate(11.25,343.99973,84.00023)" />
@@ -1499,3 +1499,4 @@
     </g>
   </g>
 </svg>
+

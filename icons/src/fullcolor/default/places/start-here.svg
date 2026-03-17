@@ -316,7 +316,7 @@
            width="254.06"
            height="400"
            id="rect40"
-           style="fill:#e95420"
+           style="fill:#990000"
            x="0"
            y="0" />
         <rect
@@ -367,7 +367,7 @@
       <g
          id="g1045">
         <path
-           style="display:inline;enable-background:new;opacity:1;fill:#e95420;fill-opacity:1;stroke-width:1.2"
+           style="display:inline;enable-background:new;opacity:1;fill:#990000;fill-opacity:1;stroke-width:1.2"
            d="m 320,188 v 24 h 24 v -24 z"
            id="rect6" />
         <path
@@ -404,7 +404,7 @@
            width="254.06"
            height="400"
            id="rect40-6"
-           style="fill:#e95420"
+           style="fill:#990000"
            x="0"
            y="0" />
         <rect
@@ -461,7 +461,7 @@
            width="254.06"
            height="400"
            id="rect660"
-           style="fill:#e95420"
+           style="fill:#990000"
            x="0"
            y="0" />
         <rect
@@ -513,7 +513,7 @@
          id="g1061"
          transform="matrix(0.91666667,0,0,0.91666667,70.666667,17.666667)">
         <path
-           style="display:inline;opacity:1;fill:#e95420;fill-opacity:1;stroke-width:1.2;enable-background:new"
+           style="display:inline;opacity:1;fill:#990000;fill-opacity:1;stroke-width:1.2;enable-background:new"
            d="m 320,188 v 24 h 24 v -24 z"
            id="path1047" />
         <path
@@ -545,7 +545,7 @@
          id="g1077"
          transform="matrix(0.66666667,0,0,0.66666667,106.66667,110.66667)">
         <path
-           style="display:inline;opacity:1;fill:#e95420;fill-opacity:1;stroke-width:1.2;enable-background:new"
+           style="display:inline;opacity:1;fill:#990000;fill-opacity:1;stroke-width:1.2;enable-background:new"
            d="m 320,188 v 24 h 24 v -24 z"
            id="path1063" />
         <path
@@ -576,3 +576,4 @@
     </g>
   </g>
 </svg>
+

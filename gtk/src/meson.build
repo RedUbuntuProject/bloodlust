@@ -241,7 +241,7 @@ foreach flavour: yaru_flavours
             # light-bg-color
             '-e', 's/#393939/#fffff1/g',
             # accent-bg-color
-            '-e', 's/#e95420/#00ff01/g',
+            '-e', 's/#990000/#00ff01/g',
             # accent-bg-color
             '-e', 's/#2265b5/#00ff01/g',
             # accent-bg-color
